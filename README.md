@@ -16,9 +16,9 @@ zip-lock-screen/
 ## URLs (jsDelivr)
 
 - Catalog JSON:
-  `https://cdn.jsdelivr.net/gh/atlat1studio/ls37-smiley-app@v2/ls37-smiley-wallpaper/ls37_updated4.json`
+  `https://cdn.jsdelivr.net/gh/atlat1studio/ls37-smiley-app@v3/ls37-smiley-wallpaper/ls37_updated4.json`
 - Any asset:
-  `https://cdn.jsdelivr.net/gh/atlat1studio/ls37-smiley-app@v2/<path>`
+  `https://cdn.jsdelivr.net/gh/atlat1studio/ls37-smiley-app@v3/<path>`
 
 ## Adding new wallpapers later
 
